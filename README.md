@@ -3,7 +3,7 @@
 A modern and minimal portfolio-style website inspired by **Awwwards** winning designs.  
 Built with **Vite**, **React**, and **TailwindCSS** for blazing-fast performance, responsive layouts, and smooth animations.  
 
-🌐 **Live Demo** → [View on Vercel](https://orchi-design-inspired-by-awwards-jziyhzg2m-ayushraj62s-projects.vercel.app/)  
+🌐 **Live Demo** → [View on Vercel](https://orchi-design-inspired-by-awwards.vercel.app/)  
 
 ---
 
